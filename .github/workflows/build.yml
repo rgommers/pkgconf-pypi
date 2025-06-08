@@ -6,6 +6,7 @@ on:
       - '*'
     branches:
       - main
+      - add-platforms
 
 env:
   FORCE_COLOR: 1
